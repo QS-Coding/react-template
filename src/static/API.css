@@ -1,0 +1,22 @@
+.api {
+    padding: 2rem;
+    background-color: var(--card);
+    color: var(--card-foreground);
+    border-radius: var(--radius);
+    margin: 1rem auto;
+    max-width: 600px;
+  }
+  
+  .api h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  .api pre {
+    background-color: var(--background);
+    color: var(--foreground);
+    padding: 1rem;
+    border-radius: var(--radius);
+    overflow-x: auto;
+  }
+  

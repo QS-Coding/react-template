@@ -1,0 +1,20 @@
+.logout {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+  }
+  
+  .logout button {
+    padding: 0.5rem 1rem;
+    background-color: var(--primary);
+    color: var(--primary-foreground);
+    border: none;
+    border-radius: var(--radius);
+    cursor: pointer;
+  }
+  
+  .logout button:hover {
+    background-color: var(--primary-foreground);
+    color: var(--primary);
+  }
+  

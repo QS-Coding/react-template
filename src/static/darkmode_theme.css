@@ -1,0 +1,14 @@
+:root.dark {
+  --background: #2e2e2e; /* Lighter background color */
+  --foreground: #e0e0e0; /* Lighter foreground color */
+  --card: #3a3a3a; /* Lighter card background */
+  --card-foreground: #e0e0e0; /* Lighter card text */
+  --primary: #1e90ff; /* Adjusted primary color for better contrast */
+  --primary-foreground: #ffffff; /* Lighter primary text */
+  --secondary: #4a4a4a; /* Adjusted secondary color */
+  --secondary-foreground: #ffffff; /* Lighter secondary text */
+  --muted: #4a4a4a; /* Adjusted muted color */
+  --muted-foreground: #a0a0a0; /* Lighter muted text */
+  --link: #1e90ff; /* Brighter link color */
+  --link-hover: #a0c4ff; /* Hover color for links */
+}
